@@ -1,14 +1,56 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+[
+  {
+    "id": 1,
+    "name": "nguyen Van A",
+    "mst": "a1",
+    "age": 7,
+    "gender": "nam",
+    "loaithe": "A",
+    "nhh": "12-12-1119"
+  },
+  {
+    "id": 2,
+    "name": "Tran Dan",
+    "mst": "a2",
+    "age": 1,
+    "gender": "nu",
+    "loaithe": "B",
+    "nhh": "12-12-2019"
+  },
+  {
+    "id": 3,
+    "name": "Van A",
+    "mst": "a3",
+    "age": 123,
+    "gender": "other",
+    "loaithe": "C",
+    "nhh": "02-02-2022"
+  },
+  {
+    "id": 4,
+    "name": "nguyen B",
+    "mst": "a4",
+    "age": 11,
+    "gender": "nu",
+    "loaithe": "S",
+    "nhh": "02-02-2022"
+  },
+  {
+    "id": 5,
+    "name": "Van D",
+    "mst": "a5",
+    "age": 24,
+    "gender": "other",
+    "loaithe": "D",
+    "nhh": "02-02-2022"
+  },
+  {
+    "id": 6,
+    "name": "nguyen Van cC",
+    "mst": "a6",
+    "age": 10,
+    "gender": "nam",
+    "loaithe": "W",
+    "nhh": "02-02-2022"
   }
-}
+]
